@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification Demo</string>
+    <string name="CHAT_Channel_name">Chat Channel</string>
+    <string name="CHAT_Channel_description">Sending notification for message from other people</string>
+
+    <string name="MATCH_Channel_name">Match Channel</string>
+    <string name="MATCH_Channel_description">Sending notification when someone match with you</string>
+</resources>
